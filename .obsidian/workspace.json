@@ -149,13 +149,21 @@
                 "file": "DAY 1.md"
               }
             }
+          },
+          {
+            "id": "527bf3453ab7930c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
